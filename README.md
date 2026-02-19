@@ -1,6 +1,3 @@
-Perfect. Below is a **professional, recruiter-impressing README.md** for your GitHub project.
-
-You can copy this directly into `README.md`.
 
 ---
 
